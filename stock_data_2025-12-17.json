@@ -1,0 +1,78 @@
+{
+    "pagination": {
+        "limit": 100,
+        "offset": 0,
+        "count": 4,
+        "total": 4
+    },
+    "data": [
+        {
+            "open": 224.655,
+            "high": 225.19,
+            "low": 220.99,
+            "close": 221.27,
+            "volume": 44034418.0,
+            "adj_high": 225.19,
+            "adj_low": 220.99,
+            "adj_close": 221.27,
+            "adj_open": 224.655,
+            "adj_volume": 43283766.0,
+            "split_factor": 1.0,
+            "dividend": 0.0,
+            "symbol": "AMZN",
+            "exchange": "XNAS",
+            "date": "2025-12-17T00:00:00+0000"
+        },
+        {
+            "open": 275.01,
+            "high": 276.16,
+            "low": 271.69,
+            "close": 271.84,
+            "volume": 49406521.0,
+            "adj_high": 276.16,
+            "adj_low": 271.64,
+            "adj_close": 271.84,
+            "adj_open": 275.01,
+            "adj_volume": 49260104.0,
+            "split_factor": 1.0,
+            "dividend": 0.0,
+            "symbol": "AAPL",
+            "exchange": "XNAS",
+            "date": "2025-12-17T00:00:00+0000"
+        },
+        {
+            "open": 476.905,
+            "high": 480.0,
+            "low": 475.0,
+            "close": 476.12,
+            "volume": 24527176.0,
+            "adj_high": 480.0,
+            "adj_low": 475.0,
+            "adj_close": 476.12,
+            "adj_open": 476.905,
+            "adj_volume": 23246350.0,
+            "split_factor": 1.0,
+            "dividend": 0.0,
+            "symbol": "MSFT",
+            "exchange": "XNAS",
+            "date": "2025-12-17T00:00:00+0000"
+        },
+        {
+            "open": 308.01,
+            "high": 308.09,
+            "low": 296.12,
+            "close": 296.72,
+            "volume": 43930358.0,
+            "adj_high": 308.09,
+            "adj_low": 296.12,
+            "adj_close": 296.72,
+            "adj_open": 308.01,
+            "adj_volume": 43245518.0,
+            "split_factor": 1.0,
+            "dividend": 0.0,
+            "symbol": "GOOGL",
+            "exchange": "XNAS",
+            "date": "2025-12-17T00:00:00+0000"
+        }
+    ]
+}
