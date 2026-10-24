@@ -14,7 +14,7 @@ def grabDate():
             print("Invalid date format. Please try again.")
 
 date = grabDate()
-url = (f"https://api.marketstack.com/v2/eod/{date}?access_key=42c292b011064ee1beda036f86f446d6&symbols=AMZN,AAPL,MSFT,GOOGL")
+url = (f"https://api.marketstack.com/v2/eod/{date}{API_KEY}&symbols=AMZN,AAPL,MSFT,GOOGL")
 with urlopen(url) as response: 
     source = response.read()
 data = json.loads(source)
